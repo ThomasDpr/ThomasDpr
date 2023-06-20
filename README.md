@@ -9,4 +9,5 @@
   </div>
   <div>
     <img class="stats-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasdpr&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=009365&title_color=009365&" alt="thomasdpr">
+  </div>
 </div>
