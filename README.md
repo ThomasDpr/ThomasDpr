@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=ThomasDpr&color=1a4a1b&style=flat&label=Profile+Views" />
 
 
-<div class="stats" style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+<div class="stats" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 100%;">
   <div>
     <img class="stats-git" src="https://github-readme-stats.vercel.app/api?username=thomasdpr&show_icons=true&locale=en&color=009365&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=009365&title_color=009365&count_private=true&include_all_commits=true&hide_title=true" alt="thomasdpr">
   </div>
