@@ -43,6 +43,11 @@ As well as my technical skills, I bring with me a passion for problem-solving an
 
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Zoom](https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white) ![Teams](https://img.shields.io/badge/teams-%23616295.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
+## Projects
+
+### Latest projects
+- [MusicRoad](https://www.musicroad.fr) - A website to search festivals in France
+
 
 ## Contact
 
