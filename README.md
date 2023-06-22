@@ -1,11 +1,17 @@
 <img src="./assets/name_baner.png" width="100%" />
-<img src="https://komarev.com/ghpvc/?username=ThomasDpr&color=1a4a1b&style=flat&label=Profile+Views" style="position:absolute;left:40px;margin-top:10px"alt="ThomasDpr" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ThomasDpr&color=1a4a1b&style=flat&label=Profile+Views" alt="ThomasDpr" />
 
+## Summary
 
+- [About](#About)
 
 - 🔭 I’m currently working on [my portfolio](https://thomas-dupre.fr)
 - 🌱 I’m currently learning **React**
 - 🤝 I’m looking for help with **finding a job**
+
+## About
+
+<p> Formerly employed as a senior salesman for several years, I turned to web development in 2023.
 
 <p> Je suis un développeur web full stack, récemment diplômé du <a href="https://www.lewagon.com/fr/web-development-course">Wagon</a>.</p>
 <p> Spécialisé en Ruby on Rails, je suis actuellement à la recherche de nouvelles opportunités afin de continuer à apprendre et à développer mes compétences dans la résolution de problèmes ainsi que la création de solutions innovantes.</p>
