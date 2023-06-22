@@ -46,11 +46,21 @@ As well as my technical skills, I bring with me a passion for problem-solving an
 ## Projects
 
 ### Latest projects
-- [MusicRoad](https://www.musicroad.fr) - A web app to find music festivals around you, pick the ones you want to go on your favorite page and chat with other users about it on the chatroom.
+
+#### [MusicRoad](https://www.musicroad.fr)
+ A web app to find music festivals around you, pick the ones you want to go on your favorite page and chat with other users about it on the chatroom.
 <div align="center">
   <img src="./assets/mr_home.png" alt="MusicRoad home page" width="200"/>
   <img src="./assets/mr_index.png" alt="MusicRoad index page" width="200"/>
   <img src="./assets/mr_festival.png" alt="MusicRoad festival page" width="200"/>
+</div>
+
+#### [SpaceBnb](https://space-bnb.herokuapp.com/)
+ A web application with the same basic features as the Airbnb website, but here... we rent out planets with BITCOINS. How unusual?
+
+<div align="center">
+  <img src="./assets/sb_home.png" alt="SpaceBnb home page" width="200"/>
+  <img src="./assets/sb_planet.png" alt="SpaceBnb planet page" width="200"/>
 </div>
 
 ## Contact
