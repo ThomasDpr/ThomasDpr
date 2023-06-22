@@ -7,6 +7,7 @@
 - 🚀 [Skills](#Skills)
 - 📚 [Projects](#Projects)
 - 📫 [Contact](#Contact)
+- 📊 [Github Stats](#Github-Stats)
 
 
 ## About
@@ -45,12 +46,12 @@ As well as my technical skills, I bring with me a passion for problem-solving an
 
 ## Projects
 
-### In progress
+### In progress 🛠️
 
 #### [Personal website](https://www.thomas-dupre.fr)
-My personal website, made with Ruby on Rails and Stimulus. It's a work in progress, but I'm pretty happy with the result so far.
+My personal website, made with Ruby on Rails and Stimulus. It's a work in progress, but I'm pretty happy with the result so far...see you soon!
 
-### Latest projects
+### Latest projects ✅
 
 #### [MusicRoad](https://www.musicroad.fr)
  A web app to find music festivals around you, pick the ones you want to go on your favorite page and chat with other users about it on the chatroom.
@@ -74,8 +75,9 @@ My personal website, made with Ruby on Rails and Stimulus. It's a work in progre
 - 👨🏻‍💻 LinkedIn: [Connect with me](https://www.linkedin.com/in/thomas-dupre/)
 - 🌐 Website: [Visit my website](https://thomas-dupre.fr)
 
+## GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thomasdpr&show_icons=true&locale=en&color=009365&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=009365&title_color=009365&count_private=true&include_all_commits=true&hide_title=true" alt="thomasdpr">
+    <img src="https://github-readme-stats.vercel.app/api?username=thomasdpr&show_icons=true&locale=en&color=009365&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=009365&title_color=009365&count_private=false&include_all_commits=false&hide_title=true" alt="thomasdpr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasdpr&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=009365&title_color=009365&" alt="thomasdpr">
 </div>
