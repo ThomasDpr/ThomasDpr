@@ -9,10 +9,6 @@
 - 📫 [Contact](#Contact)
 
 
-- 🔭 I’m currently working on [my portfolio](https://thomas-dupre.fr)
-- 🌱 I’m currently learning **React**
-- 🤝 I’m looking for help with **finding a job**
-
 ## About
 
 Formerly employed as a senior salesman for several years, I turned to web development in 2023.
