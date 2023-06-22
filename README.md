@@ -47,8 +47,11 @@ As well as my technical skills, I bring with me a passion for problem-solving an
 
 ### Latest projects
 - [MusicRoad](https://www.musicroad.fr) - A web app to find music festivals around you, pick the ones you want to go on your favorite page and chat with other users about it on the chatroom.
-<br>
-<img src="./assets/mr_home.png" alt="MusicRoad home page" width="200"/> <img src="./assets/mr_index.png" alt="MusicRoad index page" width="200"/> <img src="./assets/mr_festival.png" alt="MusicRoad festival page" width="200"/>
+<div align="center">
+  <img src="./assets/mr_home.png" alt="MusicRoad home page" width="200"/>
+  <img src="./assets/mr_index.png" alt="MusicRoad index page" width="200"/>
+  <img src="./assets/mr_festival.png" alt="MusicRoad festival page" width="200"/>
+</div>
 
 ## Contact
 
