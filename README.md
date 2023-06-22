@@ -6,8 +6,8 @@
 - 🪧 [About](#About)
 - 🚀 [Skills](#Skills)
 - 📚 [Projects](#Projects)
-- 📫 [Contact](#Contact)
 - 📊 [Github Stats](#Github-Stats)
+- 📫 [Contact](#Contact)
 
 
 ## About
@@ -69,15 +69,15 @@ My personal website, made with Ruby on Rails and Stimulus. It's a work in progre
   <img src="./assets/sb_planet.png" alt="SpaceBnb planet page" width="200"/>
 </div>
 
-## Contact
-
-- 📫 How to reach me: [Send me an email](mailto:thomasdpr-pro@outlook.com)
-- 👨🏻‍💻 LinkedIn: [Connect with me](https://www.linkedin.com/in/thomas-dupre/)
-- 🌐 Website: [Visit my website](https://thomas-dupre.fr)
-
 ## GitHub Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=thomasdpr&show_icons=true&locale=en&color=009365&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=009365&title_color=009365&count_private=false&include_all_commits=false&hide_title=true" alt="thomasdpr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasdpr&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=009365&title_color=009365&" alt="thomasdpr">
 </div>
+
+## Contact
+
+- 📫 How to reach me: [Send me an email](mailto:thomasdpr-pro@outlook.com)
+- 👨🏻‍💻 LinkedIn: [Connect with me](https://www.linkedin.com/in/thomas-dupre/)
+- 🌐 Website: [Visit my website](https://thomas-dupre.fr)
