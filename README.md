@@ -45,6 +45,11 @@ As well as my technical skills, I bring with me a passion for problem-solving an
 
 ## Projects
 
+### In progress
+
+#### [Personal website](https://www.thomas-dupre.fr)
+My personal website, made with Ruby on Rails and Stimulus. It's a work in progress, but I'm pretty happy with the result so far.
+
 ### Latest projects
 
 #### [MusicRoad](https://www.musicroad.fr)
