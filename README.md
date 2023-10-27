@@ -47,11 +47,12 @@ As well as my technical skills, I bring with me a passion for problem-solving an
 ## Projects
 
 ### In progress 🛠️
-
-#### [Personal website](https://www.thomas-dupre.fr)
-My personal website, made with Ruby on Rails and Stimulus. It's a work in progress, but I'm pretty happy with the result so far...see you soon!
+It's a work in progress, but I'm pretty happy with the result so far...see you soon!
 
 ### Latest projects ✅
+
+#### [Personal website](https://www.tdupre.fr)
+My personal website, made with React and Typescript.
 
 #### [MusicRoad](https://www.musicroad.fr)
  A web app to find music festivals around you, pick the ones you want to go on your favorite page and chat with other users about it on the chatroom.
@@ -80,4 +81,4 @@ My personal website, made with Ruby on Rails and Stimulus. It's a work in progre
 
 - 📫 How to reach me: [Send me an email](mailto:thomasdpr-pro@outlook.com)
 - 👨🏻‍💻 LinkedIn: [Connect with me](https://www.linkedin.com/in/thomas-dupre/)
-- 🌐 Website: [Visit my website](https://thomas-dupre.fr)
+- 🌐 Website: [Visit my website](https://www.tdupre.fr)
